@@ -1,7 +1,5 @@
 # futres-ui
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/c281bef8-9177-42aa-9c46-cca8e6effd34/deploy-status)](https://app.netlify.com/sites/musing-northcutt-ceb5ba/deploys)
-
-## [Netlify Link Here](https://futresdataportal.netlify.app/)
+## Redirect: This project now lives here: [Futres Data Portal](https://github.com/futres/futres-ui)
 
 ## [API](https://github.com/futres/FutresAPI)
